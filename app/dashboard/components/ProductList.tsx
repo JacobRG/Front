@@ -4,12 +4,11 @@ import latte from './latte.jpg'
 const products = [
   {
     id: 1,
-    name: 'Zip Tote Basket',
-    color: 'White and black',
+    name: 'Latte',
     href: '#',
     imageSrc: latte,
-    imageAlt: 'Front of zip tote bag with white canvas, black canvas straps and handle, and black zipper pulls.',
-    price: '$140',
+    imageAlt: 'Latte',
+    price: '$4.80',
   },
   // More products...
 ]
